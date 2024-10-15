@@ -9,6 +9,6 @@
     
 </body>
 <?php
-   echo "GitTutorial-php - kolega"
+   echo "GitTutorial-php - nasz + kolega"
 ?>
 </html>
